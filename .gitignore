@@ -1,0 +1,61 @@
+# Entorno virtual 
+
+venv/ 
+
+env/ 
+
+.venv/ 
+
+  
+
+# Cache de Python 
+
+__pycache__/ 
+
+*.pyc 
+
+*.pyo 
+
+  
+
+# Configuracion de Hadoop para Windows (winutils.exe, hadoop.dll) 
+
+.hadoop/ 
+
+  
+
+# Metastore y logs que genera Spark localmente 
+
+metastore_db/ 
+
+derby.log 
+
+spark-warehouse/ 
+
+  
+
+# Resultados del ETL (se regeneran al correr el script, no hace falta versionarlos) 
+
+resultados/ 
+
+  
+
+# Dataset (pesado, no debe subirse al repositorio) 
+
+Online_Retail.csv 
+
+  
+
+# Archivos de IDE 
+
+.vscode/ 
+
+.idea/ 
+
+  
+
+# Sistema operativo 
+
+Thumbs.db 
+
+.DS_Store 
