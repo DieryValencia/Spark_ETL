@@ -13,9 +13,9 @@ This project is an Extract-Transform-Load (ETL) pipeline built with **PySpark** 
 - **Performance Optimized**: Uses caching, coalescing, and efficient Spark configurations
 
 ## Dataset
-• **Nombre: Online Retail Dataset 
-• **Fuente: UCI Machine Learning Repository 
-• **URL: https://archive.ics.uci.edu/ml/datasets/Online+Retail 
+- **Nombre: Online Retail Dataset 
+- **Fuente: UCI Machine Learning Repository 
+- **URL: https://archive.ics.uci.edu/ml/datasets/Online+Retail 
 
 ## Project Structure
 
