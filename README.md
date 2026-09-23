@@ -12,6 +12,11 @@ This project is an Extract-Transform-Load (ETL) pipeline built with **PySpark** 
 - **Windows Compatible**: Includes Hadoop configuration for Windows environments
 - **Performance Optimized**: Uses caching, coalescing, and efficient Spark configurations
 
+## Dataset
+• Nombre: Online Retail Dataset 
+• Fuente: UCI Machine Learning Repository 
+• URL: https://archive.ics.uci.edu/ml/datasets/Online+Retail 
+
 ## Project Structure
 
 ```
@@ -219,7 +224,6 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 For questions:
 
--
 - **Email**: [dieryvale.01gmail.com]
 
 ## Acknowledgements
@@ -229,6 +233,4 @@ For questions:
 - **Libraries**: Apache Spark, Python standard library
 - **Special Thanks**: Kontext-Tech for winutils compatibility
 
----
 
-*Last Updated: $(date +%Y-%m-%d)*
